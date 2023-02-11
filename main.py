@@ -5,4 +5,4 @@
 # 4. Push the code to github
      # a. press the plus sign for each file (this will add it to staging)
      # b. write a commit message
-     # c.  
+     # c. sync changes
