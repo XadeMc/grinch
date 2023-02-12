@@ -1,0 +1,8 @@
+# "https://tweets.streamlit.app/" - random tweets
+# slight variation, random videos or photos from internet
+#could use websites like Ifunny, Twitter, Tiktok, or memedroid
+# MemeDroid has a built in feature that radomizes meme photos, no videos however
+# wimp.com has a built in system for randomizing videos. However it does not seem to work. (error message)
+#instead, can randomize the year, then the video from "https://www.wimp.com/archives/" 
+
+
